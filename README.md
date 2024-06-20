@@ -4,7 +4,7 @@
 
 ### 📚 Academic Background
 
-Currently, I am pursuing a PhD degree in Applied Mathematics. My research is centred around the application of probability theory to solve complex problems in biology 🧬 and technology 💻. This interdisciplinary approach allows me to explore fascinating intersections and contribute innovative solutions to these diverse fields.
+Currently, I am pursuing a PhD degree in Applied Mathematics. My research is centred around the application of probability theory to solve complex problems in biology 🧬 and technology 💻. 
 
 I am particularly interested in how probability models can help understand biological processes and phenomena. This includes areas such as genetic variation, population dynamics, and the spread of diseases 🦠.
 
