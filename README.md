@@ -1,7 +1,4 @@
 
-## Hello there 👋
-
----
 
 Currently, I am pursuing a PhD degree in Applied Mathematics. My research is centred around applying probability theory to solve complex problems in biology 🧬 and technology 💻. 
 
