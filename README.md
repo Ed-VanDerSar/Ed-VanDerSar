@@ -1,13 +1,6 @@
+I am pursuing a PhD degree in Applied Mathematics. My research is centred around applying probability theory to solve problems in biology. 
 
-
-Currently, I am pursuing a PhD degree in Applied Mathematics. My research is centred around applying probability theory to solve problems in biology. 
-
-I am particularly interested in how probability models can help understand biological processes and phenomena. This includes genetic variation, population dynamics, and the spread of mutations.
-
-In the realm of technology, my focus is on using probability to enhance algorithms, improve stochastic models, and ensure the reliability of complex systems.
-
-I have an interest and experience in software development, designing architectures and scaling data structures.  
-
+In the realm of technology, my focus is on using probability to enhance algorithms, improve stochastic models, and ensure the reliability of complex systems. I have interests and experience in software development, designing architectures and scaling data structures.  
 
 
 <!--
